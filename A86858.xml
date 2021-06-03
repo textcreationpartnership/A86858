@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble remonstrance of the apprentices of the City of London. To the Right Honourable the Lord Mayor Court of Aldermen, and Common Councell of the same city, &amp;c. As also to the whole kingdome.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86858</idno><idno type="EEBO-CITATION">99862179</idno>
+  <idno type="VID">114330</idno>
+  <idno type="EEBO-PROQUEST">2240959803</idno>
+  
+            <idno type="STC">Wing H3615</idno>
+            <idno type="STC">Thomason E397_23</idno>
+            <idno type="STC">ESTC R201679</idno>
+            <idno type="PROQUEST">99862179</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862179e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86858)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114330)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E397[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble remonstrance of the apprentices of the City of London. To the Right Honourable the Lord Mayor Court of Aldermen, and Common Councell of the same city, &amp;c. As also to the whole kingdome.</title>
+                  <author>City of London (England). Court of Aldermen.</author>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A vindication of their demand for a monthly day of recreation"--Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "July 12th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Recreation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Apprentices --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114330:1"/>
+            <p>THE Humble Remonstrance of the APPRENTICES Of the City of LONDON.</p>
+            <p>To the Right Honourable the LORD MAYOR Court of Aldermen, and COMMON Councell of the same CITY, <hi>&amp;c.</hi>
+            </p>
+            <p>As also to the whole KINGDOME.</p>
+            <p>
+               <hi>London</hi> printed 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:114330:2"/>
+            <pb n="1" facs="tcp:114330:2"/>
+            <head>The humble Remonstrance of the Apprentices of the City of LONDON.</head>
+            <head type="sub">To the Right Honourable the Lord Mayor, Court of Aldermen, and Common Councell of the same City, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S formerly in matters of greater im<g ref="char:EOLhyphen"/>portance, so now in those of les<g ref="char:EOLhyphen"/>ser moment; we cannot but pub<g ref="char:EOLhyphen"/>lish to this City and Kingdome the Candidness of our intentions, and how farre we are resolved, where<g ref="char:EOLhyphen"/>by we may continue a right under<g ref="char:EOLhyphen"/>standing of all our actions, and pre<g ref="char:EOLhyphen"/>serve peace and amity. 'Tis not long since (upon good grounds, and happily out of a more pious end then may or is conceived) that we were emboldned in the presentment of a Petition unto the Honourable Houses of Parliament, fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the re-establishment or institution of some certaine and sea<g ref="char:EOLhyphen"/>sonable
+<pb n="2" facs="tcp:114330:3"/>times for our recreation (those times which were formerly authorized) being duely and justly d<gap reason="illegible" resp="#keyers" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ulled; or not at all regarded: Insomuch that we were deprived of all priviledges and liberty whatsoever, enjoyed in former ages by our predecessors. The Honourable Houses (who have indeed studied publike peace, more then private safety) hav<g ref="char:EOLhyphen"/>ing as we conceive a greater in-sight into our demands, and the grounds thereof, then possibly every capacity can ap<g ref="char:EOLhyphen"/>prehend; they were pleased to take our Petition into consi<g ref="char:EOLhyphen"/>deration: and upon severall adresses by us unto their Ho<g ref="char:EOLhyphen"/>nours, much importuning them, and urging the lawful<g ref="char:EOLhyphen"/>ness and concernment of our requests, fetch'd from an in<g ref="char:EOLhyphen"/>forced disrespect and neglect of the Sabbath; and other dayes appointed for Gods publike service (whereby God is greatly d<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>onoured, and our Religion scandalized) they were pleased to expedite an Ordinance some wayes satisfa<g ref="char:EOLhyphen"/>ctory to our demands and desires. Yet being not so com<g ref="char:EOLhyphen"/>pleate as was expected, nor so firme in the authorizing an observance of the day, as was conceived might be; and fearing small fruits and effects thereof, whereby many in<g ref="char:EOLhyphen"/>conveniences, and great distractions might have arose: We were againe emboldned earnestly to presse the Honourable Houses of Parliament for an enlargment, and addition unto their former Ordinance: and withall (willing to evidence to the world the sence we have and sorrow for the extravagant and evill courses of too too many in this City and Kingdom; and of their evill inclinations and untoward dispositions) to give limits and bounds to their own affections, and to pre<g ref="char:EOLhyphen"/>scrib Laws to their wills: whereupon, some conditional clau<g ref="char:EOLhyphen"/>ses (were then presented unto the honourable houses) for the more strict enjoyning a generall observance and regard of such dayes by cessation of our weekely labours and shop-shutting, <hi>&amp;c.</hi> whereby, wee conceive no one man might be more endamnified or prejudiced then another, whereas had
+<pb n="3" facs="tcp:114330:3"/>there bin only the first Ordinance in force, many great dissen<g ref="char:EOLunhyphen"/>tions and disturbances would have unavoydably arose: All which are now prevented, by a second and more ample Order and our desires (which we hope hath given distaste to none) fully satisfied.</p>
+            <p>Now for further satisfaction unto this Honourable City of the grounds and reasons of this our accomplished de<g ref="char:EOLhyphen"/>signe, as also for the obteining your approbation, giving as<g ref="char:EOLhyphen"/>surance of our good behaviours and civill carriage on such times we are bold to offer unto your and the Kingdomes publike veiw, and perusall these ensuing lines, from whence you may clearly gather, that it was something more then our desire of liberty, that moved us to become sutors to you in this matter.</p>
+            <p>And first; It cannot be unknowne to you how intract<g ref="char:EOLhyphen"/>able Youth generally have been and are in their wayes; also what absurdities and foule enormities are daily committed by them of the Inferiour sort; and how greatly they tres<g ref="char:EOLhyphen"/>passe and transgresse in their great neglect of those solemne duties of the Sabbath: to the great scandall of this City, and bad examples to adjacent Countries.</p>
+            <p>And secondly, how even those of the best temper, and most pious education, (through the frequent seducements of the unbrideled) are too too often withdrawne from their usuall imployments and Masters service, both at unfit op<g ref="char:EOLhyphen"/>portunities and unseasonable houres, to their Masters great detriment, and oftentimes to their own undoing.</p>
+            <p>And thirdly, how this City is enforced to dayly duties and pocturnall watches, for the preservation of your peace, too too often violated and broken through the ex<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>avagancy and riot of diverse young men and Apprentices, (amongst others) who are enforced to steale time, when employed about their Masters affaires, for the supplying of their ordinary pleasures and refreshment, and oftentimes necessi<g ref="char:EOLhyphen"/>tated,
+<pb n="4" facs="tcp:114330:4"/>to use as it were, (upon severall occasions) the night as the day; to the great disquiet of this City, and their own distemper and ruine. All which, with many other inconveniences which dayly arise, wee cannot but impute to the hard usage and slavish bondage, borne and endured by many Apprentices and Servants in this City and King<g ref="char:EOLhyphen"/>dome: whereas, wee are confident (and rest assured, ex<g ref="char:EOLhyphen"/>perience will evidence it as a truth) that such dayes being observed (for which GOD willing wee are resolved) and injoyed by us in such manner as is provided; that then the Government of this City will be much bettered; and so consequently the whole kingdome better ordered and regulated. And now that none be left enraged against us or remaine disasted, pardon us if wee are bold to make a little digression.</p>
+            <p>And 1. Many there are that much wonder wee should become such earnest suitors for a little Recreation, or as some please to stile it, a Play-day. We answer, 'tis no won<g ref="char:EOLhyphen"/>der why they wonder; we know there is a great difference wrought both in the affections and inclinations, betwixt Master and Servant, through a more ripe maturity of years which the one hath attained unto. Which oftentimes makes the Master to condemne his Servant for seeking after such and such things, which happily were more sought after by himselfe in his younger yeares and time of minority.</p>
+            <p>But 2. 'tis more wondred at by some, why wee should prevayle with the Honourable houses of Parliament, for set<g ref="char:EOLhyphen"/>ting apart a day for recreation, when as we enjoy liberty at our Masters pleasure, and whatsoever is requisite from them. To answer which, 'tis ture, many enjoy great liber<g ref="char:EOLhyphen"/>ty, and 'tis not questionable but most could procure some leave for a little absence upon occasion: but then wee know that all Masters are not alike reasonable, but rather dumb to such Rethorick, and so some are mewed and
+<pb n="5" facs="tcp:114330:4"/>pend up, and early and late at their labours, whilst other<g ref="char:EOLhyphen"/>some enjoy pleasure and great liberty. And further, here would arise a greater inconvenience then hath yet ap<g ref="char:EOLhyphen"/>peared, should our Masters at their best times not deny us this liberty; for oftentimes i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may so fall out, (if not in all tra<g ref="char:EOLhyphen"/>des, yet in most) that through our absence our Masters may be greatly prejudiced, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d lose more in one houre, then our three dayes diligence can countervayle. And moreover in most Trades, many men wil have a great advan<g ref="char:EOLhyphen"/>tage over others, as having attendance in thier shops whilst happily the other have none, and so great variance and dif<g ref="char:EOLhyphen"/>ference may happen and arise betwixt Master and Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vant, and often betwixt neighbours. Whereas now all will be alike attended and guarded for receipt of custome, nor one man can be more prejudiced or hindred then another, there being certaine provisoes in the Ordinance to this effect; as if extraordinary occasion require &amp;c. And now we hope you are fully satisfied as well of what it was that moved us hereunto, as in what manner we shall imploy our selves on such allowed dayes. You <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>not b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> know in what man<g ref="char:EOLhyphen"/>ner wee proposed unto the Honourable houses of Parlia<g ref="char:EOLhyphen"/>ment, as well for a tye upon our selves, as a strict observance of the day, on which (GOD willing) wee are resolved: withall, assuring you we abhor and detest the least thought of any licentiousnesse or kind of excesse; declaring, that whatever act shall be committed by any Apprentice or ser<g ref="char:EOLhyphen"/>vant, to the disturbance of the Peace or disquiet of the City; that none shall appeare more willing or ready, in the ayding such persons to examination and so to deserved punish<g ref="char:EOLhyphen"/>ment, then our selves. And we desire no favour towards such as shall be found any wayes herein tardy or culpable. We could not but satisfie you <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>in, and with all desire you to take notice <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>T<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>day</hi> being the 13<seg rend="sup">th</seg> of July is our first
+<pb n="6" facs="tcp:114330:5"/>Monthly-day, which (GOD willing we are resolved to observe) and whatsoever mischeife shall grow or a<g ref="char:EOLhyphen"/>rise, from any opposition intended by you, or any, we by this our admonition and no<g ref="char:EOLhyphen"/>tice given, shall hold our selves not guilty, but blamelesse.</p>
+            <q>
+               <hi>Voluptas non nocens, necessaria.</hi>
+            </q>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
